@@ -1,6 +1,8 @@
 # spregsdm
 Maximum Likelihood Estimation Spatial Durbin Cross Sections Regression Use spregsdm With STATA 18
 
+https://www.youtube.com/watch?v=_goGzOnZr_Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
